@@ -13,6 +13,11 @@
 	License: pixelarity.com/license
 */
 
+body {
+	background: blue !important;
+}
+
+
 // Breakpoints.
 
 	@include breakpoints((
